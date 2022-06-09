@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ibraheem Ayman Ibraheem Hammoudeh
+- 👋 Hi, I’m Ibraheem Ayman Hammoudeh
 - 👀 I’m interested in Web Development, Piano and other stuff
 - 🌱 I’m currently learning ReactJS and NodeJS.
 - 📫 How to reach me ? ibraheemhamodeh@gmail.com
